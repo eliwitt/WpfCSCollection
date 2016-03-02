@@ -1,0 +1,54 @@
+﻿<Window x:Class="WpfCSCollection.AbtCol"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="About" Height="300" Width="406" 
+        WindowStyle="None" BorderThickness="2"
+        ResizeMode="NoResize">
+    <DockPanel Name="DockPanel1" Grid.Column="2" Grid.Row="3">
+        <TextBlock DockPanel.Dock="left" 
+                   Height="257" Width="70"
+                   Foreground="CornflowerBlue"
+                   FontFamily='Ravie'
+                   FontSize="72"
+                   FontWeight="Bold" >?</TextBlock>
+        <StackPanel DockPanel.Dock="Right" >
+            <Grid Name="ABGrid">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <StackPanel Name="AbInfoStack" Grid.ColumnSpan="2" Margin="2,0">
+                    <Grid Name="ABInfo">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="91*" />
+                            <ColumnDefinition Width="113*" />
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Label Grid.Row="0" Name="lblProductName" Margin="-2,0,13,0">Product Name:</Label>
+                        <Label Name="LabelProductName" Margin="0.22,0,0.001,0" Grid.Column="1"></Label>
+                        <Label Grid.Row="1" Name="lblVersion" Margin="0,0,46,0">Version:</Label>
+                        <Label Grid.Row="1" Grid.Column="1" Name="LabelVersion" Margin="0.22,0,0,0"></Label>
+                        <Label Grid.Row="2" Name="lblCopyRight" Margin="0,0,54,0">CopyRight</Label>
+                        <Label Grid.Row="2" Grid.Column="1" Name="LabelCopyRight" Margin="0.221,0,0,0"></Label>
+                        <Label Grid.Row="3" Name="lblCompanyName" Margin="-2,0,0,0">Company Name:</Label>
+                        <Label Grid.Row="3" Grid.Column="1" Name="LabelCompanyName" Margin="0.221,0,0,0"></Label>
+                    </Grid>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Name="AbDesc" Grid.ColumnSpan="2" Margin="1,0">
+                    <TextBlock Height="125" Name="TextBoxDescription" Width="202" TextWrapping="Wrap">
+                        Description :
+(At runtime, the labels' text will be replaced with the application's assembly information.
+Customize the application's assembly information in the Application pane of Project Designer.)
+                    </TextBlock>
+                </StackPanel>
+                <Button Grid.Row="2" Name="btOK" Margin="0,0,2,0" HorizontalAlignment="Right" Width="61.28" Click="btOK_Click">OK</Button>
+            </Grid>
+        </StackPanel>
+    </DockPanel>
+</Window>

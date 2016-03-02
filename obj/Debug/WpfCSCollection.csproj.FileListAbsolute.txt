@@ -1,0 +1,59 @@
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\bin\Debug\WpfCSCollection.exe
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\bin\Debug\WpfCSCollection.pdb
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\FrmMain.baml
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\FrmMain.g.cs
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\App.g.cs
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\WpfCSCollection_MarkupCompile.cache
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\WpfCSCollection.g.resources
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\WpfCSCollection.Properties.Resources.resources
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\WpfCSCollection.csproj.GenerateResource.Cache
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\WpfCSCollection.exe
+C:\Documents and Settings\Switt\Local Settings\Application Data\Temporary Projects\WpfCSCollection\obj\Debug\WpfCSCollection.pdb
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.exe
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.pdb
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\AbtCol.baml
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\FrmMain.baml
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\AbtCol.g.cs
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\FrmMain.g.cs
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\App.g.cs
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection_MarkupCompile.cache
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.g.resources
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.Properties.Resources.resources
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.csproj.GenerateResource.Cache
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\bin\Debug\WpfCSCollection.exe
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\bin\Debug\WpfCSCollection.pdb
+C:\Documents and Settings\Switt\My Documents\Visual Studio 2008\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.AboutBox1.resources
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\WpfCSCollection.exe
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\WpfCSCollection.pdb
+C:\Users\Public\src\c#\WpfCSCollection\bin\Debug\WpfCSCollection.exe
+C:\Users\Public\src\c#\WpfCSCollection\bin\Debug\WpfCSCollection.pdb
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\AbtCol.baml
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\FrmMain.baml
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\AbtCol.g.cs
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\FrmMain.g.cs
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\App.g.cs
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\WpfCSCollection_MarkupCompile.cache
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\WpfCSCollection.g.resources
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\WpfCSCollection.Properties.Resources.resources
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\WpfCSCollection.csproj.GenerateResource.Cache
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\FindPropFrm.baml
+C:\Users\Public\src\c#\WpfCSCollection\obj\Debug\FindPropFrm.g.cs
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.exe
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.pdb
+C:\steve\Projects\WpfCSCollection\bin\Debug\WpfCSCollection.exe
+C:\steve\Projects\WpfCSCollection\bin\Debug\WpfCSCollection.pdb
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.csprojResolveAssemblyReference.cache
+C:\steve\Projects\WpfCSCollection\obj\Debug\AbtCol.baml
+C:\steve\Projects\WpfCSCollection\obj\Debug\FindPropFrm.baml
+C:\steve\Projects\WpfCSCollection\obj\Debug\FrmMain.baml
+C:\steve\Projects\WpfCSCollection\obj\Debug\AbtCol.g.cs
+C:\steve\Projects\WpfCSCollection\obj\Debug\FindPropFrm.g.cs
+C:\steve\Projects\WpfCSCollection\obj\Debug\FrmMain.g.cs
+C:\steve\Projects\WpfCSCollection\obj\Debug\App.g.cs
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection_MarkupCompile.cache
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.g.resources
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.Properties.Resources.resources
+C:\steve\Projects\WpfCSCollection\obj\Debug\WpfCSCollection.csproj.GenerateResource.Cache
